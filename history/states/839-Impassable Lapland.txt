@@ -1,0 +1,21 @@
+
+state={
+	id=839
+	name="Impassable Lapland"
+	manpower = 42
+	
+	state_category = wasteland
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = FIN
+	}
+
+	provinces={
+		3069 103 3097 203 3158 6142 2992 167 3107 11167 6076 11204 11130 9189 9112 3156 6137 6087 6179 9223 3153 3026 30 162 
+	}
+	impassable = yes
+	local_supplies=0.0
+}

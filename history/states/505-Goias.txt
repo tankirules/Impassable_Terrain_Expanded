@@ -1,0 +1,22 @@
+state = {
+	id = 505
+	name = "Goyaz"
+
+	history = {
+		owner = BRA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BRA
+		victory_points = {
+			13304 5
+		}
+	}
+
+	provinces = {
+		2168 5115 5151 5208 8140 12959 12987 13301 13302 13303 13304 13305 13306 13307 13308 13309 13310 13311 13312 13313 
+	}
+	manpower = 661200
+	state_category = rural
+}
+

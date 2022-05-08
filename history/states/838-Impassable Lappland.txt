@@ -1,0 +1,22 @@
+state={
+	id=838
+	name="Impassable Lappland"
+
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SWE
+	}
+
+	provinces={
+		151 11060 9083 101 3095 11155 9226 9186 6055 9178 6206 6155 190 3179 6074 3054 3104 6024 148 11102 58 11058 11112 9211 11190 3062 3003 11152 9175 6152 109 3100 11026 11 6200 3138 9095 9134 3044 11069 145 3173
+	}
+	manpower=42
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+
+	local_supplies=0.0 
+}

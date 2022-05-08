@@ -1,0 +1,22 @@
+state=
+{
+	id=852
+	name="Impassable Greenland"
+	manpower = 42
+	
+	state_category = wasteland
+	impassable = yes
+	history=
+	{
+		owner = DEN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = DEN
+	}
+	provinces= {
+		10245 13058 13066 10636
+	}
+
+	local_supplies=0.0 
+}

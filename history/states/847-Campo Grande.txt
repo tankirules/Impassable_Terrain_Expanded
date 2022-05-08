@@ -1,0 +1,22 @@
+state = {
+	id = 847
+	name = "Campo Grande"
+
+	history = {
+		owner = BRA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BRA
+		victory_points = {
+			13296 2
+		}
+	}
+
+	provinces = {
+		2181 8189 10959 12951 13294 13295 13296 13297 13298 13299 13300 
+	}
+	manpower = 198700
+	state_category = pastoral
+}
+

@@ -1,0 +1,23 @@
+state={
+	id=836
+	name="NW Territories"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		10721 2947 7901 13075 10527 2407 7696 10703 7830 8653 13191 13190 13189 4272
+	}
+	manpower=42
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+
+	local_supplies=0.0 
+}

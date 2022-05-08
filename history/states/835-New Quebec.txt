@@ -1,0 +1,23 @@
+state={
+	id=835
+	name="New Quebec"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		3691 12147 7364 3208 12600 4666 10176 13196 13166 13184 13186 7813 1712
+	}
+	manpower=42
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=857
+	name="Changtang"
+	manpower = 42
+	
+	state_category = wasteland
+
+	history={
+		owner = TIB
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = TIB
+	}
+
+	provinces={
+		10755 10918 2010 5011 8068
+	}
+	impassable = yes
+	local_supplies=0.0 
+}

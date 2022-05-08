@@ -1,0 +1,18 @@
+state = {
+	id = 844
+	name = "Northern Amazonas"
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		5232 8185
+	}
+	manpower = 15412
+	impassable = yes
+	state_category = wasteland
+}
+
