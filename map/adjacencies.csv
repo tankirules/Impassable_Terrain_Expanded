@@ -179,8 +179,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5192;12928;impassable;-1;-1;-1;-1;-1;;andas mountains
 12914;12928;impassable;-1;-1;-1;-1;-1;;ndes mountains
 8194;12928;impassable;-1;-1;-1;-1;-1;;andes mountains
-2179;650;impassable;-1;-1;-1;-1;-1;;andes mountains
-650;10992;impassable;-1;-1;-1;-1;-1;;andes mountains
+2179;650;impassable;-1;-1;-1;-1;-1;;andes ndmountains
+650;10992;impassable;-1;-1;-1;-1;-1;;aes mountains
 5192;8195;impassable;-1;-1;-1;-1;-1;;andes mountains
 8229;10992;impassable;-1;-1;-1;-1;-1;;andes mountains
 8229;2215;impassable;-1;-1;-1;-1;-1;;andes mountains
@@ -188,6 +188,23 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 8251;8192;impassable;-1;-1;-1;-1;-1;;andes mountains
 8161;5118;impassable;-1;-1;-1;-1;-1;;andes mountains
 2169;2161;impassable;-1;-1;-1;-1;-1;;andes mountains
+8161;2161;impassable;-1;-1;-1;-1;-1;;andes mountains
 2169;10961;impassable;-1;-1;-1;-1;-1;;andes mountains
+672;11664;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+672;6674;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+654;6674;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+654;9632;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+672;9632;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+9626;9632;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+1530;9632;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+672;11609;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+1530;9632;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6436;1455;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6436;7554;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6763;1455;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6763;3711;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6763;1450;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+11645;1450;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+6763;7554;impassable;-1;-1;-1;-1;-1;;caucasus mountains
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
 -1;-1;;-1;-1;-1;-1;-1;-1
