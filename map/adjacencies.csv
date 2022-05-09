@@ -206,5 +206,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6763;1450;impassable;-1;-1;-1;-1;-1;;caucasus mountains
 11645;1450;impassable;-1;-1;-1;-1;-1;;caucasus mountains
 6763;7554;impassable;-1;-1;-1;-1;-1;;caucasus mountains
+10802;7273;impassable;-1;-1;-1;-1;-1;;kunlun mountains
+10802;5042;impassable;-1;-1;-1;-1;-1;;kunlun mountains
+12801;5042;impassable;-1;-1;-1;-1;-1;;kunlun mountains
+12801;4973;impassable;-1;-1;-1;-1;-1;;kunlun mountains
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
 -1;-1;;-1;-1;-1;-1;-1;-1
