@@ -1,18 +1,17 @@
 state = {
-	id = 840
-	name = "Acre Jungle"
+	id = 914
+	name = "Northern Amazonas"
 	history = {
 		owner = BRA
 		add_core_of = BRA
-		add_claim_by = BOL
 		buildings = {
 			infrastructure = 1
 		}
 	}
 	provinces = {
-		5083
+		5232 8185
 	}
-	manpower = 2300
+	manpower = 15412
 	impassable = yes
 	state_category = wasteland
 }

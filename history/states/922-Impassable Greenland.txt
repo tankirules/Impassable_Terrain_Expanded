@@ -1,6 +1,6 @@
 state=
 {
-	id=852
+	id=922
 	name="Impassable Greenland"
 	manpower = 42
 	

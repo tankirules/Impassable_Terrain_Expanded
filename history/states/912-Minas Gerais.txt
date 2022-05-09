@@ -1,5 +1,5 @@
 state = {
-	id = 842
+	id = 912
 	name = "Minas Gerais"
 	manpower = 6763300
 	state_category = city

@@ -1,5 +1,5 @@
 state={
-	id=853
+	id=923
 	name="Guyana Jungle"
 	manpower = 42
 	

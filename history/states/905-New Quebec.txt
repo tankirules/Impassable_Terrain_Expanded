@@ -1,20 +1,18 @@
 state={
-	id=837
-	name="Taklamakan Desert"
+	id=905
+	name="New Quebec"
 
 	history={
-		owner = SIK
+		owner = CAN
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SIK
-		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = CAN
 
 	}
 
 	provinces={
-		8042 8086 10885 12864 5016 7790
+		3691 12147 7364 3208 12600 4666 10176 13196 13166 13184 13186 7813 1712
 	}
 	manpower=42
 	buildings_max_level_factor=1.000

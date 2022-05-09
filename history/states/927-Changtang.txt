@@ -1,21 +1,21 @@
 
 state={
-	id=856
-	name="Bolivar Jungle"
+	id=927
+	name="Changtang"
 	manpower = 42
 	
 	state_category = wasteland
 
 	history={
-		owner = VEN
+		owner = TIB
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = VEN
+		add_core_of = TIB
 	}
 
 	provinces={
-		5317 7915 8050 10736 10849 10879 
+		10755 10918 2010 5011 8068
 	}
 	impassable = yes
 	local_supplies=0.0 

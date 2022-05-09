@@ -1,6 +1,6 @@
 state={
-	id=835
-	name="New Quebec"
+	id=906
+	name="NW Territories"
 
 	history={
 		owner = CAN
@@ -12,7 +12,7 @@ state={
 	}
 
 	provinces={
-		3691 12147 7364 3208 12600 4666 10176 13196 13166 13184 13186 7813 1712
+		10721 2947 7901 13075 10527 2407 7696 10703 7830 8653 13191 13190 13189 4272
 	}
 	manpower=42
 	buildings_max_level_factor=1.000

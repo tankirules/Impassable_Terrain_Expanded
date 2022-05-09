@@ -1,24 +1,21 @@
 
 state={
-	id=854
-	name="Suriname Jungle"
+	id=925
+	name="Guiana Jungle"
 	manpower = 42
 
-	resources={
-	}	
-	
 	state_category = wasteland
 
 	history={
-		add_core_of = SUR
-		owner = HOL
+		owner = FRA
+		add_core_of = CAY
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces={
-		1928
+		4934
 	}
 	impassable = yes
 	local_supplies=0.0 
