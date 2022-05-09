@@ -1,27 +1,31 @@
-state = {
-	id = 913
-	name = "Piaui"
-	resources = {
-		rubber = 26
+
+state={
+	id=913
+	name="Piaui"
+	resources={
+		rubber=26.000
 	}
 
-	history = {
+	history={
 		owner = BRA
 		add_core_of = BRA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 			air_base = 1
+
 		}
 		victory_points = {
-			13279 5
+			13279 5 
 		}
+
 	}
 
-	provinces = {
+	provinces={
 		2228 5153 5204 10984 13276 13277 13278 13279 
 	}
-	manpower = 817600
-	state_category = rural
+	manpower=817600
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
-

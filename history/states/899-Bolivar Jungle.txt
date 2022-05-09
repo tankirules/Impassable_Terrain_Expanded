@@ -1,0 +1,22 @@
+
+state={
+	id=899
+	name="Bolivar Jungle"
+	manpower = 42
+	
+	state_category = wasteland
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = VEN
+	}
+
+	provinces={
+		5317 7915 8050 10736 10849 10879 
+	}
+	impassable = yes
+	local_supplies=0.0 
+}

@@ -1,28 +1,30 @@
-state = {
-	id = 495
-	name = "Amazonas"
-	manpower = 408400
-	state_category = rural
 
-	resources = {
-		aluminium = 4
+state={
+	id=495
+	name="Amazonas"
+	resources={
+		aluminium=4.000
 	}
 
-	history = {
+	history={
 		owner = BRA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
+
 		}
 		add_core_of = BRA
-
 		victory_points = {
-			10934 10
+			10934 10 
 		}
+
 	}
 
-	provinces = {
+	provinces={
 		1979 10934 12919 13083 13257 13258 13259 13260 13261 13262 13263 13264 13265 13266 13267 13268 13269 13270 13271 13272 13273 13274 
 	}
+	manpower=408400
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
-
