@@ -1,6 +1,6 @@
 
 state={
-	id=902
+	id=924
 	name="Suriname Jungle"
 	manpower = 42
 
